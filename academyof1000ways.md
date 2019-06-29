@@ -13,7 +13,7 @@ Some classes are held by long-term students.
 The academy focusses more on hands-on experience than theoretic study - propably because there are not enough teachers around...
 
 ## Characters
-### [Long Schlong Dong the 3rd](long.md)
+### [Long Schlong Dong the 4th](long.md)
 ### [Aerendyl Keatoris](aerendyl.md)
 ### [Gabrien Shashan](gabrien.md)
 ### [Trouble](trouble.md)

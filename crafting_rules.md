@@ -13,33 +13,33 @@
 
 ## Enchantments 
 
-| Type 				| Common	| Uncommon	| Rare		| Very Rare	| Legendary	|
-| --- | --- | --- | --- | --- | --- |
-| Hit 				|			| +1		| +2		| +3		| +4		|
-| Damage			| 			| < 5 avg	| < 10 avg	| < 15 avg	| < 20 avg	|
-| Spell attack		|			| +1		| +2		| +3 		| +4		|
-| Spell save		|			| +1		| +2		| +3 		| +4		|
-| Spell resist		|			| 			| X			| 			|			|
-| Spell reflection	|			| 			|			| X			|			|
-| Spell absorbtion	|			| 			|			| 			| X			|
-| AC 				|			| 			| +1		| +2		| +3		|
-| Move speed		| +5ft		| +10ft		| +15ft		| 			|			|
-| Swim speed 		| 			| 30ft		| 60ft		| 			|			|
-| burrow (no rock)	|			| 15ft		| 30ft		| 			|			|
-| climb speed		|			| 30ft		| 60ft		| 			|			|
-| Fly speed			|			| 			| 30ft		| 60ft		|			|
-| Dmg Resist		|			| 			| X			| 			|			|
-| Dmg Immunity		|			| 			| 			| X			|			|
-| Sustenance		|			| 			| X			| 			|			|
-| Darkvision		|			| X			| 			| 			|			|
-| Blindsight		|			| 			| 			| X			|			|
-| Tremorsense		|			| 			| 			| X			|			|
-| Truesight			|			| 			| 			| 			| X			|
-| Skill				| +1		| +2		| +3		| +4		| +5		|
-| Proficiency		|			| X			| 			| 			|			|
-| Expertise			|			| 			| X			| 			|			|
-| Spell recovery	|			| 1			| 2			| 3			| 4			|
-| Spell	1/day		| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	| Lvl 7-8	|
-| Spell	3/day		| 			| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	|
+| Type 				| Equipment slot 		| Common	| Uncommon	| Rare		| Very Rare	| Legendary	|
+| --- | --- | --- | --- | --- | --- | --- |
+| Hit 				| Weapon				|			| +1		| +2		| +3		| +4		|	
+| Damage			| Weapon				| 			| < 5 avg	| < 10 avg	| < 15 avg	| < 20 avg	|
+| Spell attack		| All					|			| +1		| +2		| +3 		| +4		|
+| Spell save		| All					|			| +1		| +2		| +3 		| +4		|
+| Spell resist		| All					|			| 			| X			| 			|			|
+| Spell reflection	| All					|			| 			|			| X			|			|
+| Spell absorbtion	| All					|			| 			|			| 			| X			|
+| AC 				| Non-Weapon Equipment	|			| 			| +1		| +2		| +3		|
+| Move speed		| Boots					| +5ft		| +10ft		| +15ft		| 			|			|
+| Swim speed 		| Gloves,Boots,Cloak	| 			| 30ft		| 60ft		| 			|			|
+| burrow (no rock)	| Gloves,Boots			|			| 15ft		| 30ft		| 			|			|
+| climb speed		| Gloves,Boots			|			| 30ft		| 60ft		| 			|			|
+| Fly speed			| Cloak					|			| 			| 30ft		| 60ft		|			|
+| Dmg Resist		| All					|			| 			| X			| 			|			|
+| Dmg Immunity		| All					|			| 			| 			| X			|			|
+| Sustenance		| All					|			| 			| X			| 			|			|
+| Darkvision		| Helmet,Eyewear		|			| X			| 			| 			|			|
+| Blindsight		| Helmet,Eyewear		|			| 			| 			| X			|			|
+| Tremorsense		| Boots? Helmet?		|			| 			| 			| X			|			|
+| Truesight			| Helmet,Eyewear		|			| 			| 			| 			| X			|
+| Skill				| All					| +1		| +2		| +3		| +4		| +5		|
+| Proficiency		| All					|			| X			| 			| 			|			|
+| Expertise			| All					|			| 			| X			| 			|			|
+| Spell recovery	| All					|			| 1			| 2			| 3			| 4			|
+| Spell	1/day		| All					| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	| Lvl 7-8	|
+| Spell	3/day		| All					| 			| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	|
 
 

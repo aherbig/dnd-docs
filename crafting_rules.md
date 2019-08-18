@@ -15,7 +15,7 @@ Characters have to fulfill level requirements to create enchantments of higher r
 ## Enchantments 
 
 | Type 				| Equipment slot 		| Common	| Uncommon	| Rare		| Very Rare	| Legendary	|
-| --- | --- | --- | --- | --- | --- | --- |
+| ---				| ---					| ---		| ---		| ---		| ---		| ---		|
 | Hit 				| Weapon				|			| +1		| +2		| +3		| +4		|	
 | Damage			| Weapon				| 			| < 5 avg	| < 10 avg	| < 15 avg	| < 20 avg	|
 | Spell attack		| All					|			| +1		| +2		| +3 		| +4		|
@@ -23,12 +23,12 @@ Characters have to fulfill level requirements to create enchantments of higher r
 | Spell resist		| All					|			| 			| X			| 			|			|
 | Spell reflection	| All					|			| 			|			| X			|			|
 | Spell absorbtion	| All					|			| 			|			| 			| X			|
-| AC 				| Non-Weapon Equipment	|			| 			| +1		| +2		| +3		|
+| AC				| All					|			| 			| +1		| +2		| +3		|
 | Move speed		| Boots					| +5ft		| +10ft		| +15ft		| 			|			|
-| Swim speed 		| Gloves,Boots,Cloak	| 			| 30ft		| 60ft		| 			|			|
-| burrow (no rock)	| Gloves,Boots			|			| 15ft		| 30ft		| 			|			|
-| climb speed		| Gloves,Boots			|			| 30ft		| 60ft		| 			|			|
-| Fly speed			| Cloak					|			| 			| 30ft		| 60ft		|			|
+| Swimming speed 	| Gloves,Boots,Cloak	| 			| 30ft		| 60ft		| 			|			|
+| Burrow (no rock)	| Gloves,Boots			|			| 15ft		| 30ft		| 			|			|
+| Climbing speed	| Gloves,Boots			|			| 30ft		| 60ft		| 			|			|
+| Flying speed		| Boots, Cloak			|			| 			| 30ft		| 60ft		|			|
 | Dmg Resist		| All					|			| 			| X			| 			|			|
 | Dmg Immunity		| All					|			| 			| 			| X			|			|
 | Sustenance		| All					|			| 			| X			| 			|			|
@@ -43,4 +43,25 @@ Characters have to fulfill level requirements to create enchantments of higher r
 | Spell	1/day		| All					| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	| Lvl 7-8	|
 | Spell	3/day		| All					| 			| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	|
 
+
+### Equipment Slots:
+
+#### Existing Items with enchantments
+
+Fly speed:
+- Winged Boots (while attuned, limited duration per day)
+
+AC:
+- Ingot of the Skold Rune (Wondrous Item, on person)
+- Cloak of Protection (worn)
+- Ring of Protection (worn)
+- Badge of the Watch (worn)
+- Revenant Double-Bladed Scimitar (wielding)
+- Staff of Defense (while holding)
+
+Senses:
+- Belt of Dwarfenkind (Darkvision, while attuned)
+- Dagger of Blindsight (while attuned)
+- Goggles of Night (Darkvision, while worn)
+- Ironfang (Legendary weapon, Tremorsense, while attuned)
 

@@ -1,15 +1,16 @@
 # Crafting Rules
 
-## Pricing / Cost
+## Pricing / Cost / Requirements
 
-| CR 		| Mod	| Value				|
-| --- | --- | --- |
-| 0 - 1/2	| 10	| 0 - 5 gp			|
-| 1 - 4		| 100	| 100 - 400 gp		|
-| 5 - 10	| 500	| 2500 - 5000 gp	|
-| 11 - 16	| 1000	| 11000 - 16000 gp	|
-| 17 - 20	| 1500	| 25500 - 30000 gp	|
+Characters have to fulfill level requirements to create enchantments of higher rarity.
 
+| Char Lvl	| Rarity	| Mod	| Value				|
+| ---		| ---		| ---	| ---				|
+| 0 - 1/2	| Common	| 10	| 0 - 5 gp			|
+| 1 - 4		| Uncommon	| 100	| 100 - 400 gp		|
+| 5 - 10	| Rare		| 500	| 2500 - 5000 gp	|
+| 11 - 16	| Very Rare	| 1000	| 11000 - 16000 gp	|
+| 17 - 20	| Legendary	| 1500	| 25500 - 30000 gp	|
 
 ## Enchantments 
 

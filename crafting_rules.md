@@ -1,7 +1,19 @@
-Crafting Rules
+# Crafting Rules
+
+## Pricing / Cost
+
+| CR 		| Mod	| Value				|
+| --- | --- | --- |
+| 0 - 1/2	| 10	| 0 - 5 gp			|
+| 1 - 4		| 100	| 100 - 400 gp		|
+| 5 - 10	| 500	| 2500 - 5000 gp	|
+| 11 - 16	| 1000	| 11000 - 16000 gp	|
+| 17 - 20	| 1500	| 25500 - 30000 gp	|
 
 
-| EnchanemntType 	| Common	| Uncommon	| Rare		| Very Rare	| Legendary	|
+## Enchantments 
+
+| Type 				| Common	| Uncommon	| Rare		| Very Rare	| Legendary	|
 | --- | --- | --- | --- | --- | --- |
 | Hit 				|			| +1		| +2		| +3		| +4		|
 | Damage			| 			| < 5 avg	| < 10 avg	| < 15 avg	| < 20 avg	|
@@ -29,3 +41,5 @@ Crafting Rules
 | Spell recovery	|			| 1			| 2			| 3			| 4			|
 | Spell	1/day		| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	| Lvl 7-8	|
 | Spell	3/day		| 			| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	|
+
+

@@ -17,7 +17,7 @@ Characters have to fulfill level requirements to create enchantments of higher r
 | Type 				| Equipment slot 		| Common	| Uncommon	| Rare		| Very Rare	| Legendary	|
 | ---				| ---					| ---		| ---		| ---		| ---		| ---		|
 | Hit 				| Weapon				|			| +1		| +2		| +3		| +4		|	
-| Damage			| Weapon				| 			| < 5 avg	| < 10 avg	| < 15 avg	| < 20 avg	|
+| Damage			| Weapon				| 			| 2d4/1d6/1d8	| 3d4/2d6/2d8/1d10/1d12	| 4d4/3d6/3d8/2d10/2d12	| 5d4/4d6/4d8/3d10/3d12	|
 | Spell attack		| All					|			| +1		| +2		| +3 		| +4		|
 | Spell save		| All					|			| +1		| +2		| +3 		| +4		|
 | Spell resist		| All					|			| 			| X			| 			|			|
@@ -36,13 +36,15 @@ Characters have to fulfill level requirements to create enchantments of higher r
 | Blindsight		| Helmet,Eyewear		|			| 			| 			| X			|			|
 | Tremorsense		| Boots? Helmet?		|			| 			| 			| X			|			|
 | Truesight			| Helmet,Eyewear		|			| 			| 			| 			| X			|
-| Skill				| All					| +1		| +2		| +3		| +4		| +5		|
+| Skill				| All					| +1		| +2/+3		| +4/+5		| 		| 		|
 | Proficiency		| All					|			| X			| 			| 			|			|
 | Expertise			| All					|			| 			| X			| 			|			|
 | Spell recovery	| All					|			| 1			| 2			| 3			| 4			|
 | Spell	1/day		| All					| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	| Lvl 7-8	|
 | Spell	3/day		| All					| 			| Cantrip	| Lvl 1-2	| Lvl 3-4	| Lvl 5-6	|
-
+| Advantage		| All					|			| 			| 	X		| 			|			|
+| Disadvantage		| All					|			| 			| 	X		| 			|			|
+| Regeneration		| All					|			| 			| 	1d6/10min		| 	2d6/10min		|			|
 
 ### Equipment Slots:
 

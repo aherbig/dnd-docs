@@ -4,7 +4,7 @@
 
 Characters have to fulfill level requirements to create enchantments of higher rarity.
 
-| Char Lvl	| Rarity	| Mod	| Value				|
+| Monster CR	| Rarity	| Mod	| Value				|
 | ---		| ---		| ---	| ---				|
 | 0 - 1/2	| Common	| 10	| 0 - 5 gp			|
 | 1 - 4		| Uncommon	| 100	| 100 - 400 gp		|

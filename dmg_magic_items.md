@@ -1,13 +1,13 @@
 | A  | previous | now |
 | --- | --- | --- |
-|Adamantine armor|Uncommon |uncommon|
+|Adamantine armor|Uncommon |rare|
 |Alchemy jug|uncommon | uncommon |
 |Ammunition +1|Uncommon |common|
 |Ammunition +2|Rare | uncommon|
 |Ammunition +3|Very rare | rare|
 |Amulet of health(A) |Rare | rare|
 |Amulet of proof against detection(A)| uncommon | rare|
-|Amulet of the planes(A)|||
+|Amulet of the planes(A)|very rare|legendary|
 |Animated shield(A)| Rare | very rare|
 |Apparatus of kwalish|Legendary | legendary|
 |Armor +1|Rare | rare|
@@ -23,8 +23,8 @@ ____________________
 
 | B   | previous | new |
 | --- | ---      | --- |
-|Bag of beans|Rare ||
-|Bag of devouring|Very rare ||
+|Bag of beans|Rare |legendary|
+|Bag of devouring|Very rare |legendary|
 |Bag of holding|Uncommon | rare|
 |Bag of tricks|Uncommon | rare|
 |Bead of force|Rare || 

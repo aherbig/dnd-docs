@@ -9,8 +9,8 @@ Characters have to fulfill level requirements to create enchantments of higher r
 | 0 - 1/2	| Common	| 10	| 0 - 5 gp			|
 | 1 - 4		| Uncommon	| 100	| 100 - 400 gp		|
 | 5 - 10	| Rare		| 500	| 2500 - 5000 gp	|
-| 11 - 16	| Very Rare	| 1000	| 11000 - 16000 gp	|
-| 17 - 20	| Legendary	| 1500	| 25500 - 30000 gp	|
+| 11 - 16	| Very Rare	| 1500	| 16500 - 24000 gp	|
+| 17 - 20	| Legendary	| 10000	| 170000 - 200000 gp	|
 
 ## Enchantments 
 

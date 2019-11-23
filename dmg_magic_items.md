@@ -44,3 +44,187 @@ ____________________
 |Brazier of commanding fire elemental|Rare | very rare|
 |Brooch of shielding(A)| Uncommon | rare|
 |Broom of flying|Uncommon | rare / very rare|
+
+____________________
+
+| C   | previous | new |
+| --- | ---      | --- |
+| Candle of Invocation | very rare | - |
+| Cap of Water Breathing | uncommon | - |
+| Cape of the Mountebank | rare | - |
+| Carpet of Flying | very rare | - |
+| Censer of Controlling Air Elementals | rare | - |
+| Chime of Opening | rare | - |
+| Circlet of Blasting | uncommon | - |
+| Cloak of Arachnida | very rare | - |
+| Cloak of Displacement | rare | - |
+| Cloak of Elvenkind | uncommon | - |
+| Cloak of Invisibility | legendary | - |
+| Cloak of Protection | uncommon | - |
+| Cloak of the Bat | rare | - |
+| Cloak of the Manta Ray | uncommon | - |
+| Crystal Ball | very rare / legendary | - |
+| Cube of Force | rare | - |
+| Cubic Gate | legendary | - |
+
+____________________
+
+| D   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| E   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| F   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| G   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| H   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| I   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| J   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| K   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| L   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| M   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| N   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| O   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| P   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| Q   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| R   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| S   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| T   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| U   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| V   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| W   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| X   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| Y   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+
+____________________
+
+| Z   | previous | new |
+| --- | ---      | --- |
+|  |  | - |
+|  |  | - |
+

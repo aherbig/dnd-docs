@@ -49,23 +49,23 @@ ____________________
 
 | C   | previous | new |
 | --- | ---      | --- |
-| Candle of Invocation | very rare | - |
-| Cap of Water Breathing | uncommon | - |
-| Cape of the Mountebank | rare | - |
-| Carpet of Flying | very rare | - |
-| Censer of Controlling Air Elementals | rare | - |
-| Chime of Opening | rare | - |
-| Circlet of Blasting | uncommon | - |
-| Cloak of Arachnida | very rare | - |
-| Cloak of Displacement | rare | - |
-| Cloak of Elvenkind | uncommon | - |
-| Cloak of Invisibility | legendary | - |
-| Cloak of Protection | uncommon | - |
-| Cloak of the Bat | rare | - |
-| Cloak of the Manta Ray | uncommon | - |
-| Crystal Ball | very rare / legendary | - |
-| Cube of Force | rare | - |
-| Cubic Gate | legendary | - |
+| Candle of Invocation | very rare | very rare |
+| Cap of Water Breathing | uncommon | uncommon |
+| Cape of the Mountebank | rare | rare |
+| Carpet of Flying | very rare | very rare |
+| Censer of Controlling Air Elementals | rare | very rare |
+| Chime of Opening | rare | rare |
+| Circlet of Blasting | uncommon | uncommon |
+| Cloak of Arachnida | very rare | rare / very rare |
+| Cloak of Displacement | rare | rare |
+| Cloak of Elvenkind | uncommon | uncommon / rare |
+| Cloak of Invisibility | legendary | legendary |
+| Cloak of Protection | uncommon | rare |
+| Cloak of the Bat | rare | rare |
+| Cloak of the Manta Ray | uncommon | uncommon |
+| Crystal Ball | very rare / legendary | legendary |
+| Cube of Force | rare | legendary |
+| Cubic Gate | legendary | legendary |
 
 ____________________
 
@@ -98,7 +98,7 @@ ____________________
 |Elemental gem|Uncommon | Rare|
 |Elixir of health|Rare | rare|
 |Elven chain|Rare | rare|
-|Eversmoking bottle|Uncommon | Yery Rare|
+|Eversmoking bottle|Uncommon | Very Rare|
 |Eyes of charming|(A) Uncommon | Rare|
 |Eyes of minute seeing|Uncommon | Uncommon / Rare|
 |Eyes of the eagle|(A) Uncommon | Uncommon / Rare|

@@ -64,10 +64,24 @@ R.Up == rarity up
 | Regeneration		  | All					        |			    | 			    | 	1d6/10min		      | 	2d6/10min		      |			                |
 
 
-### Attunement:
+### Attunement
 
-An object costs 1 attunement slot if it is not on a listed slot or if the same kind of enchamtment is on the second listed slot.
+- AC on non armor/shield slots
+- resistance
+- immunity
+- regeneration
+- class specific effect
+- cast spell X 3 or more times a day
+- Ability Score improvement
+- spell recovery
+- spell absorbtion
+- spell reflection
+- proficiency
+- expertise
+- vision exept darkvision
+- speed if you do not already have the chosen movement option
 
+Consumable items do not need attunement
 
 ### Equipment Slots:
 

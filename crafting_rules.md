@@ -83,7 +83,12 @@ R.Up == rarity up
 
 Consumable items do not need attunement
 
-### Equipment Slots:
+### Crafting Consumables:
+
+250gp / 2h
+Max. 1000gp / day
+Half cost / value (rare consumable value 2500gp. Costs 1250gp and 20h / 2,5 days to craft)
+
 
 #### Existing Items with enchantments
 

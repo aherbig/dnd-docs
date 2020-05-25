@@ -29,6 +29,18 @@ R.Up == rarity up
 |    5     |    -     |     -        |   -          |   50000 (R.Up) |    500000        |
 |    6     |    -     |     -        |   -          |    -           |   1500000 (R.Up) |
 
+
+## Magic Item Enchantment Slots
+
+|  slots   |  Common  |  Uncommon    |  Rare        |  Very Rare     |  Legendary       |
+|  ---     |  ---     |  ---         |  ---         |  ---           |  ---             |
+|    1     |    50     |    500        |   5000        |    50.000        |     500.000        |
+|    2     |    -     |   1000        |  10.000        |   100.000        |    1.000.000        |
+|    3     |    -     |   3000 (R.Up) |  30.000        |   300.000        |    3.000.000        |
+|    4     |    -     |     -        |  60.000 (R.Up) |   600.000        |    6.000.000        |
+|    5     |    -     |     -        |   -          |  1.000.000 (R.Up) |   10.000.000        |
+|    6     |    -     |     -        |   -          |    -           |   1500000 (R.Up) |
+
 ## Enchantments 
 
 | Type 				      | Equipment slot 	  	| Common	| Uncommon	| Rare		            | Very Rare	          | Legendary	          |
@@ -88,24 +100,3 @@ Consumable items do not need attunement
 250gp / 2h
 Max. 1000gp / day
 Half cost / value (rare consumable value 2500gp. Costs 1250gp and 20h / 2,5 days to craft)
-
-
-#### Existing Items with enchantments
-
-Fly speed:
-- Winged Boots (while attuned, limited duration per day)
-
-AC:
-- Ingot of the Skold Rune (Wondrous Item, on person)
-- Cloak of Protection (worn)
-- Ring of Protection (worn)
-- Badge of the Watch (worn)
-- Revenant Double-Bladed Scimitar (wielding)
-- Staff of Defense (while holding)
-
-Senses:
-- Belt of Dwarfenkind (Darkvision, while attuned)
-- Dagger of Blindsight (while attuned)
-- Goggles of Night (Darkvision, while worn)
-- Ironfang (Legendary weapon, Tremorsense, while attuned)
-

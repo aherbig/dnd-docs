@@ -105,3 +105,16 @@ Half cost / value (rare consumable value 2500gp. Costs 1250gp and 20h / 2,5 days
 
 250gp / day
 you have to pay half the value of the magic item you wish to craft. for example: rare item value 5000gp if you take the time to craft it, you have to provide 2500gp. the process takes you (5000/250) days.
+
+
+### Bonus
+
+magic item price formula
+
+(base price * slot amount)* slots above first = gp
+
+example 3 slot rare item:
+(5000gp * 3) * 2 = 30000gp
+
+example 4 slot rare item:
+(5000gp * 4) * 3 = 60000gp

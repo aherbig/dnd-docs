@@ -118,3 +118,12 @@ example 3 slot rare item:
 
 example 4 slot rare item:
 (5000gp * 4) * 3 = 60000gp
+
+
+### Permanent Magic (WIP)
+
+Teleportation circle
+Casting this spell each day for 30 days on the same location makes this circle permanent. You pay double the material costs at the end of the 30 days (1500×2).
+
+Temple of the gods
+Casting this spell each day for 30 days on the same location makes this temple permanent. You pay 10000gp worth of gold/religious paintings/statues/etc.
